@@ -1,4 +1,12 @@
-##💦 Scraping | Extensions | Trading Bot | C++ | Desktop | Point Cloud | Flutter 💦
+<h1 align="center">
+  <u>💦 Scraping | Automation | Trading Bot | C++ | Wordpress 💦</u>
+</h1>
+
+<p align="center">
+I empower enthusiasts and tech-driven businesses with <b>automation tools</b> and custom solutions.  
+Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading Bots</b>, <b>C++ Desktop Apps</b>, and <b>Flutter Mobile Apps</b>.
+</p>
+
 
 <!--
 **tylemonsanderson/tylemonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
