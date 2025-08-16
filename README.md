@@ -77,9 +77,6 @@ Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylemonsanderson&layout=compact&theme=tokyonight" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tylemonsanderson&show_icons=true&theme=radical)
-
-
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
