@@ -18,8 +18,9 @@ Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading
 </p>
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&column=7&margin-w=15&margin-h=15](https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667)" />
+  <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" />
 </p>
+
 
 <!--
 **tylemonsanderson/tylemonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
