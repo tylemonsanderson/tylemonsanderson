@@ -28,7 +28,7 @@ Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" width="48" height="48" alt="Rest Api" />
+      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" width="48" height="48" alt="Rest Api" />
       <br>REST API
     </td>
     <td align="center" width="96">
@@ -46,28 +46,28 @@ Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/api.png" width="48" height="48" alt="REST API" />
-      <br>REST API
+      <img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="48" height="48" alt="Laravel" />
+      <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity" />
-      <br>Solidity
+      <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
-      <br>Rust
+      <img src="https://camo.githubusercontent.com/730577f274566576ff88e28ea042fea703254659dd140c5478ce1423f07f4855/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="48" height="48" alt="php" />
+      <br>php
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
-      <br>Rust
+      <img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
   </tr>
 </table>
