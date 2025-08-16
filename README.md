@@ -8,13 +8,19 @@ Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading
 </p>
 
 <p >
-🔹 Web Scraping — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping
-🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools
-🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants
-🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, chatbot, telegram bot, discord bot, trading bot
-🔹 C++ Desktop Point Cloud — Point Cloud street, C++ app, Qt app, MFC
-🔹 Mobile iOS Flutter — chat app, dating app, shop app etc
+🔹 Web Scraping — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping </p>
+<p>
+🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools . </p>
+<p>
+🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, chatbot, telegram bot, discord bot, trading bot  </p>
+<p>
+🔹 Wordpress —  traditional websites, mailing lists, Internet forums
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&column=7&margin-w=15&margin-h=15" />
+</p>
+
 <!--
 **tylemonsanderson/tylemonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
