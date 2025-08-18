@@ -85,27 +85,6 @@ Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylemonsanderson&theme=tokyonight" />
 </p>
 
-# 👋 Hi, I’m Juhani Nieminen  
-
-🚀 Developer | Automation • AI • Bots • Web Solutions  
-
-I build smart automation tools, AI-powered chatbots, and scalable web solutions that help businesses save time and grow faster.  
-
----
-
-## 🔥 Featured Projects  
-⭐ **[Smart-Automation-Bot](#)** – An advanced automation system for repetitive tasks  
-⭐ **[AI-Chat-System](#)** – Custom chatbot with natural conversation flow  
-⭐ **[Ecommerce-Optimizer](#)** – Tools that improve Shopify & WooCommerce stores  
-
----
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tylemonsanderson&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylemonsanderson&layout=compact&theme=tokyonight)  
-
----
 
 ## 🌍 Connect With Me  
 - 🌐 Portfolio: [yourwebsite.com](#)  
