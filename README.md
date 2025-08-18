@@ -86,11 +86,6 @@ Specialties include <b>Web Scraping</b>, <b>AI Chrome Extensions</b>, <b>Trading
 </p>
 
 
-## 🌍 Connect With Me  
-- 🌐 Portfolio: [yourwebsite.com](#)  
-- 💼 LinkedIn: [YourLinkedIn](#)  
-- 📧 Email: your@email.com  
-
 ---
 ✨ Always exploring new tech and building cool things.
 
